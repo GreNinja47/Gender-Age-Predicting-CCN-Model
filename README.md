@@ -4,7 +4,6 @@ Deep Learning Model : Muti Convolution Neural Networks
 
 This project involves the development of a deep neural network model from scratch, employing Multi-Convolutional Neural Networks (CNN), to predict both the age and gender of individuals depicted in images. <br>
 
-[![MasterHead](https://www.researchgate.net/profile/Md-Mahin/publication/332407214/figure/fig2/AS:747438860156930@1555214719430/Proposed-adopted-Convolutional-Neural-Network-CNN-model.png)](https://github.com/GreNinja47)
+<img class="left" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*zADmyHH92LZPdnmj.gif">
 
-<img class="center" alt="Coding" width="400" src="https://www.researchgate.net/profile/Md-Mahin/publication/332407214/figure/fig2/AS:747438860156930@1555214719430/Proposed-adopted-Convolutional-Neural-Network-CNN-model.png">
-
+<img class="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/750a54_7babaef7fd00430b9d67daab50c40a8e~mv2.gif">
